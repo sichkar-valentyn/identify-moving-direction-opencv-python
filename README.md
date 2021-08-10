@@ -11,7 +11,8 @@ Implementing *ROI selection* and applying *built-in OpenCV algorithms* for objec
 <br/>
 
 ### :mortar_board: Related Course
-**Design**, **Train** & **Test** deep CNN for Image Classification. Join the course & enjoy new opportunities to get deep learning skills. 👉 Join the Course: [https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)
+**Design**, **Train** & **Test** deep CNN for Image Classification. Join the course & enjoy new opportunities to get deep learning skills.
+<br/> 👉 Join the Course: [https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)
 
 ![CNN Course](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/slideshow_classification.gif)
 
